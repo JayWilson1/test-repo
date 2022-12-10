@@ -1,4 +1,4 @@
 # test-repo
-CLass with Jay and Cherrelle
+Class with Jay P. and Cherrelle M.
 
 Use Markdown language here
