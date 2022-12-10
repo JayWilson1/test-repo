@@ -4,5 +4,5 @@
 1. Use Markdown language here
 2. Markdown cheat sheet
 
-- [ ] get comfortable with README.md
+- [x] get comfortable with README.md
 - 
