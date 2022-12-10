@@ -1,4 +1,8 @@
 # test-repo
-Class with Jay P. and Cherrelle M.
+**Class with Jay P. and Cherrelle M.**
 
-Use Markdown language here
+1. Use Markdown language here
+2. Markdown cheat sheet
+
+- [] get comfortable with README.md
+- 
