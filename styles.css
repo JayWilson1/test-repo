@@ -5,14 +5,30 @@
 /* Setting the font to Calibri */
 
 h1,
-h3 {
-  font-family: "Calibri", serif;
-  color: rgb(11, 55, 151);
-}
-
-p,
 h5 {
   font-family: "Calibri", serif;
-  color: rgb(7, 32, 85);
+  color: #4764a3;
 }
 
+
+h3 {
+  font-family: "Calibri", serif;
+  color: #4764a3;
+}
+.h3 {
+  padding: 0px;
+}
+.h3 {
+  margin: 0px;
+}
+p,
+em {
+  font-family: "Calibri", serif;
+  color: rgb(1, 1, 1);
+}
+
+body {
+  padding: 75px 100px 50px 100px;
+} 
+/* ^ This is short hand padding for html elements. 
+TOPpx, RIGHTpx, BOTTOMpx, and LEFTpx */
