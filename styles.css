@@ -16,10 +16,10 @@ h3 {
   color: #4764a3;
 }
 .h3 {
-  padding: 0px;
+  margin-block-start: 0px;
 }
-.h3 {
-  margin: 0px;
+.p {
+  margin-block-start: 0px;
 }
 p,
 em {
